@@ -1,3 +1,5 @@
+https://youtu.be/RG-3R6Pu_Ik?si=Op3sx5oPhwJax7vB
+
 # inititated project with react and typescript with transpiler as swc
 
 # npm installed dnd-kit
@@ -55,3 +57,11 @@ body,
 }
 
 # after that in src create a components folder and add a Kanban component
+
+# made a button to add coloumn in Kanban component
+
+# after that add a on Click on kanban button to ad new coulumn when button is clicked and define a state with empty array
+
+# So add afunction that adds a column everytime add column is clicked
+
+# after that create columnCOntainer component
